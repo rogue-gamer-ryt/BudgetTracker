@@ -12,7 +12,8 @@ The Simple Budget Tracker is an Android application designed to help users manag
 
 ## Demo
 
-![Screen_recording_20240730_142515-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/738ca183-6bfa-4ad3-8062-7ba1113282a3)
+
+<img src="https://github.com/user-attachments/assets/738ca183-6bfa-4ad3-8062-7ba1113282a3" width=250 height=500></img>
 
 
 
